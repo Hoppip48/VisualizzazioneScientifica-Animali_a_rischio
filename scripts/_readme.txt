@@ -1,1 +1,0 @@
-L'ordine è in base a come appaiono nelle slides
